@@ -1,5 +1,7 @@
 # rubydevshop.com
 
+Website coming soon... I guess.
+
 ## Canada
 ### Montreal
 #### Shops
