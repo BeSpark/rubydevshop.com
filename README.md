@@ -20,6 +20,7 @@ Website coming soon... I guess.
 - [Sonder](https://www.sonder.com/)
 - [Callbox](http://www.usecallbox.com/)
 - [Bookwitty](https://www.bookwitty.com/)
+- [Koolicar](https://www.koolicar.com/)
 
 #### Freelancers
 - ~~[Nicholas Henry](http://www.firsthand.ca/)~~
